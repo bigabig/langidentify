@@ -10,13 +10,13 @@ It is trained on a balanced dataset of 240k sentences in german 🇩🇪, englis
 
 **Confusion matrix 🤯**:
 
-<img src="imgs/confusion.png" alt="Confusion matrix" width="500"/>
+<img src="imgs/confusion.png" alt="Confusion matrix" width="400"/>
 
 
 ## Demo application 🔥
 Test the model with the demo application. Start the app with `$ streamlit run app.py`. Then, open http://localhost:8501/ in your browser.
 
-<img src="imgs/app.png" alt="LangIdentify app" width="500"/>
+<img src="imgs/app.png" alt="LangIdentify app" width="550"/>
 
 ## Install requirements ⚙️
 ```
