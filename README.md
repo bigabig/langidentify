@@ -10,6 +10,8 @@ It is trained on a balanced dataset of 240k sentences in german 🇩🇪, englis
 
 **Confusion matrix 🤯**:
 
+<img src="imgs/app.png" alt="LangIdentify app" width="250"/>
+
 ![alt text](imgs/confusion.png "LangIdentify app")
 
 
